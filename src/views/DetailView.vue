@@ -27,6 +27,7 @@ const getData = async () => {
 
 <template>
   <main>
+    <h2>Рассрочка или Cash Back в «Домотехнике»</h2>
     <NewsCard 
       datePublish="2020-06-18" 
       title="Рассрочка или Cash Back в «Домотехнике»" 
