@@ -1,0 +1,704 @@
+{
+    "news": [
+        {
+            "title": "Не проспи лето! Рассрочка на тысячи товаров!",
+            "shortText": "Рассрочка без первого взноса и переплат !",
+            "datePublish": "2020-06-18",
+            "image": "",
+            "slug": "ne-prospi-leto-rassrochka-na-tysyachi-tovarov"
+        },
+        {
+            "title": "Бесплатная доставка",
+            "shortText": "При заказе товара от 5000 руб., доставим, бесплатно до порога.",
+            "datePublish": "2020-04-27",
+            "image": "",
+            "slug": "besplatnaya-dostavka"
+        },
+        {
+            "title": "Поможем в выборе товара и оформлении заказа",
+            "shortText": "Получить ответ на интересующий вопрос и полную информацию по каждому товару вы можете по телефону горячей линии 8-800-333-33-66.",
+            "datePublish": "2020-04-03",
+            "image": "",
+            "slug": "pomozhem-v-vybore-tovara-i-oformlenii-zakaza"
+        },
+        {
+            "title": "Информация о работе магазинов на время карантина, на ближайшее время",
+            "shortText": "В связи с ограничением на осуществление розничной торговли график работы магазинов изменился.\r\n\r\nАктуальный график работы магазинов можно посмотреть здесь. \r\n\r\nВ этом разделе мы постарались ответить для вас на часто задаваемые вопросы.\r\n\r\n",
+            "datePublish": "2020-04-03",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/603\/ddcfdf69380329859b167f11f9febd2bb1f7e13a-original.png",
+            "slug": "informatsiya-o-rabote-magazinov-na-vremya-karantina-na-blizhayshee-vremya"
+        },
+        {
+            "title": "Экспресс-доставка",
+            "shortText": "Купите товар до 17:00 и при оформлении заказа выберите способ получения «Экспресс-доставка» -  Вы сможете получить технику в этот же день, наши специалисты доставят Вашу покупку до 20:00.",
+            "datePublish": "2020-04-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/602\/68f1c27e9219f606ad1661adce69e6c8b7d47d05-original.png",
+            "slug": "ekspress-dostavka"
+        },
+        {
+            "title": "Рассрочка на все в «Домотехнике»",
+            "shortText": "Не упусти РАССРОЧКУ НА ВСЕ!",
+            "datePublish": "2020-03-30",
+            "image": "",
+            "slug": "rassrochka-na-vse-v-domotekhnike"
+        },
+        {
+            "title": "Рассрочка или Cash Back в «Домотехнике»",
+            "shortText": "Не упусти свой правильный выбор!",
+            "datePublish": "2020-03-16",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/600\/cdaaf761a9614d8689280de30a1f8ac20b0cdb36-original.png",
+            "slug": "rassrochka-ili-cash-back-v-domotekhnike"
+        },
+        {
+            "title": "Рассрочка  в «Домотехнике»",
+            "shortText": "С 10 февраля по 15 марта 2020 года включительно не нужно выбирать между покупкой новой стиральной машины или холодильника - позвольте себе и то, и другое!\r\nПри покупке товара в рассрочку скидка на товар не распространяется",
+            "datePublish": "2020-03-10",
+            "image": "",
+            "slug": "rassrochka-v-domothnike"
+        },
+        {
+            "title": "Правильная рассрочка в «Домотехнике»",
+            "shortText": "Не упусти свой правильный выбор!",
+            "datePublish": "2020-01-13",
+            "image": "",
+            "slug": "pravilnaya-rassrochka-v-domotekhnike-6"
+        },
+        {
+            "title": "Спасибо по-шведски!",
+            "shortText": "Вернем до 100% стоимости посудомоемочной машины  при покупке комплекта Electrolux",
+            "datePublish": "2019-12-04",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/593\/814ffe356bb0d8a4c357707a0beecd84547bc62f-original.png",
+            "slug": "spasibo-po-shvedski"
+        },
+        {
+            "title": "Выгодные предложения в сети «Домотехника»",
+            "shortText": "С 02 декабря 2019 по 12 января 2020 года включительно  в «Домотехнике» вас ждет супер выгодное предложение: «Cash Back* или Рассрочка» на тысячи товаров!",
+            "datePublish": "2019-12-02",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/592\/e2116e4ba6ea003cd9de6544b7bc91272cd13f4f-original.png",
+            "slug": "vygodnye-predlozheniya-v-seti-domotekhnika"
+        },
+        {
+            "title": "«Домотехника» запускает «Ночь распродаж»!",
+            "shortText": "Не проспи ночные скидки в ТРЦ «Черемушки»!",
+            "datePublish": "2019-11-28",
+            "image": "",
+            "slug": "domotekhnika-zapuskaet-noch-rasprodazh-2"
+        },
+        {
+            "title": "Рассрочка или Cash Back* от «Домотехники»!",
+            "shortText": "Выгодные предложения в сети «Домотехника»",
+            "datePublish": "2019-11-06",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/588\/a12e025b5b549ec154ffc517086cc5df16528d20-original.png",
+            "slug": "rassrochka-ili-cash-back-ot-domotekhniki-4"
+        },
+        {
+            "title": "Скидка 40% на товары Haier!",
+            "shortText": "Покупай комплект техники Haier со скидкой 40%.",
+            "datePublish": "2019-10-30",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/587\/68776fa8803ed77b2fe09afdc3f1a4cc444303eb-original.png",
+            "slug": "skidka-40-na-tovary-haier"
+        },
+        {
+            "title": "Скидка на технику Whirlpool, Indesit или Hotpoint - 50% на второй товар",
+            "shortText": "Покупай комплект техники Whirlpool, Indesit или Hotpoint со скидкой.",
+            "datePublish": "2019-10-08",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/583\/95df7635d16f678072897b74e39b15b3c4191be3-original.png",
+            "slug": "skidka-50-na-tekhniku-whirlpool-indesit-ili-hotpoint"
+        },
+        {
+            "title": "Получите скидку на бытовую технику Haier до 100%!",
+            "shortText": "Скидка на комплект бытовой техники с Haier до 100%! И это не шутка!",
+            "datePublish": "2019-10-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/582\/90edfd3c47993dd6c18b0d5b9485c358776c1f3b-original.png",
+            "slug": "poluchite-skidku-na-bytovuyu-tekhniku-haier-do-100"
+        },
+        {
+            "title": "Скидка 50% на автомобильную акустику DIGMA!",
+            "shortText": "Покупай комплект техники DIGMA со скидкой.",
+            "datePublish": "2019-10-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/581\/a421708f4c3a7b96e916d843a717d1f2fabdd869-original.png",
+            "slug": "skidka-50-na-avtomobilnuyu-akustiku-digma"
+        },
+        {
+            "title": "Осенняя рассрочка или Cash Back от «Домотехники»!",
+            "shortText": "Выгодные предложения в сети «Домотехника»",
+            "datePublish": "2019-09-30",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/579\/3405331f663c3eb477d73e31b1d3884aafd85166-original.png",
+            "slug": "osennyaya-rassrochka-ili-cash-back-ot-domotekhniki"
+        },
+        {
+            "title": "Скидка до 25% на бытовую технику Haier ",
+            "shortText": "Выгодный комплект: холодильник или стиральная машина Haier со скидками и аксессуарами.",
+            "datePublish": "2019-09-27",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/580\/0f9bcbab6e841d367b6f2e2504f28c2ba03b7528-original.png",
+            "slug": "skidka-do-25-na-bytovuyu-tekhniku-haier"
+        },
+        {
+            "title": "Рассрочка или Cash Back* от «Домотехники»!",
+            "shortText": "Выгодные предложения в сети «Домотехника»",
+            "datePublish": "2019-09-16",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/578\/2fbe0fca22bd8dfcc95a6c0edef55087c80cf48b-original.png",
+            "slug": "rassrochka-ili-cash-back-ot-domotekhniki-3"
+        },
+        {
+            "title": "«Домотехнике» 28 лет: праздничная программа и подарки гостям",
+            "shortText": "Сеть цифробытовых магазинов «Домотехника» приглашает всех на свой день рождения, который состоится 14 сентября.",
+            "datePublish": "2019-09-13",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/577\/8b1230e96442cb065debc79f9ffb73f77a7e3a31-original.png",
+            "slug": "domotekhnike-28-let-prazdnichnaya-programma-i-podarki-gostyam"
+        },
+        {
+            "title": "Снова в школу с Рассрочкой или Cash Back* от «Домотехники»!",
+            "shortText": "В преддверии нового учебного года выгодные предложения в сети «Домотехника»",
+            "datePublish": "2019-08-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/576\/3627db337b87830ca86fd968f04a73c2413aee47-original.png",
+            "slug": "snova-v-shkolu-s-rassrochkoy-ili-cash-back-ot-domotekhniki"
+        },
+        {
+            "title": "Купи йогуртницу Tefal или  Moulinex – получи блендер в подарок!",
+            "shortText": "Приобретая Йогуртницы Moulinex YG 230131 или Tefal YG 260132, приятным подарком для вас станет блендер погружной Moulinex DD650832",
+            "datePublish": "2019-08-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/575\/0f62f6f9ba3c015a4dd33cf99ca189efc1cb13fa-original.png",
+            "slug": "kupi-yogurtnitsu-tefal-ili-moulinex-poluchi-blender-v-podarok"
+        },
+        {
+            "title": "Подарки от Honor!",
+            "shortText": "Оформи предзаказ на Honor 20 Pro на и получи наушники в подарок!",
+            "datePublish": "2019-08-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/573\/9c9503a4462ad427422830be08f7051fc88806e5-original.png",
+            "slug": "podarki-ot-honor-2"
+        },
+        {
+            "title": "Как выбрать кондиционер?",
+            "shortText": "Кондиционер - это прибор, способный охлаждать температуру в комнате и поддерживать её на заданной отметке.  Давайте разберёмся, на что обратить внимание при выборе этой популярной климатической техники.",
+            "datePublish": "2019-07-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/572\/bd78461da75d08fc40132f80341dd78ef788ff2c-original.png",
+            "slug": "kak-vybrat-konditsioner"
+        },
+        {
+            "title": "Рассрочка или Cash Back от «Домотехники»!",
+            "shortText": "Только с 01 июля по 18 августа не пропусти невероятный Сash Back или купи новую цифробытовую технику в рассрочку на 24 месяца без первого взноса и переплат.",
+            "datePublish": "2019-07-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/571\/a3d880ff8893e62d8b5d6793e27d3a3f2bbf8c3f-original.png",
+            "slug": "rassrochka-ili-cash-back-ot-domotekhniki-2"
+        },
+        {
+            "title": "Рассрочка или Cash Back от «Домотехники»!",
+            "shortText": "Выбирай выгодный Cash Back или Рассрочку 0-0-24!",
+            "datePublish": "2019-06-17",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/570\/8cd2cc558f8d97420e6300b9b22b69c0f061f57c-original.png",
+            "slug": "rassrochka-ili-cash-back-ot-domotekhniki"
+        },
+        {
+            "title": "Запчасти для бытовой техники от производителей - в \"Домотехника Сервис\"",
+            "shortText": "Запчасти для бытовой техники от производителей - в \"Домотехника Сервис\"",
+            "datePublish": "2019-06-14",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/568\/7ed1025c6902655e1c105216ed996583efcbbf58-original.png",
+            "slug": "zapchasti-dlya-bytovoy-tekhniki-ot-proizvoditeley-v-domotekhnika-servis"
+        },
+        {
+            "title": "Подарки от Honor!",
+            "shortText": "Оформи предзаказа и получи наушники в подарок!",
+            "datePublish": "2019-06-14",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/569\/5696d46bb3b2b1bf36c2604e909c267afe9f2eac-original.png",
+            "slug": "podarki-ot-honor"
+        },
+        {
+            "title": "Торжественное открытие  Магазина в ТЦ\"Центральный\" гор. Уссурийск",
+            "shortText": "Приходи, получай подарки, пробую блюда от шеф-повара и покупай товары со скидками до 50%",
+            "datePublish": "2019-06-06",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/567\/84a7924a8b924f1d92582d925a885ed68a14f3b4-original.png",
+            "slug": "torzhestvennoe-otkrytie-magazina-v-ttstsentralnyy-gor-ussuriysk"
+        },
+        {
+            "title": "Торжественное открытие второго магазина в г. Комсомольске-на-Амуре!",
+            "shortText": "Розыгрыш подарков. Дополнительные скидки. Выгодные покупки.",
+            "datePublish": "2019-05-17",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/564\/1e55909673c9a29f1adc3a3282de2628c711891b-original.png",
+            "slug": "torzhestvennoe-otkrytie-vtorogo-magazina-v-g-komsomolske-na-amure"
+        },
+        {
+            "title": "Время перемен: 3 июня 2019 года наша страна окончательно перейдёт с аналогового телевещания на цифровое.",
+            "shortText": "Чтобы твой телевизор «ловил» цифровой сигнал, он должен быть оснащён цифровым тюнером. Альтернативный вариант - приобрести цифровую приставку. Всё это ты найдёшь в магазинах «Домотехники»!",
+            "datePublish": "2019-05-15",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/563\/fa7b3915d0129778d92f1bedbe9337372e630f21-original.png",
+            "slug": "vremya-peremen-3-iyunya-2019-goda-nasha-strana-okonchatelno-pereydet-s-analogovogo-televeshchaniya-na-tsifrovoe"
+        },
+        {
+            "title": "Марафон скидок",
+            "shortText": "Выбирай выгодный Cash Back или Рассрочку 0-0-24!",
+            "datePublish": "2019-05-06",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/562\/1a6b2008a0f4d7700de6cefe69eb20b9591db2ab-original.png",
+            "slug": "rassrochka-ili-keshbek-ot-domotekhniki"
+        },
+        {
+            "title": "Спасем Экологию, начнем утилизировать батарейки правильно!",
+            "shortText": "Сделай свой маленький вклад в защиту экологии: не выбрасывай батарейки в обычную мусорку!Тебе достаточно принести накопившиеся батарейки в Магазины \"Домотехника\" .Здесь ты найдёшь специальные контейнеры, куда ты можешь выбросить свои батарейки. ",
+            "datePublish": "2019-04-11",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/561\/55e47204993837f5ecae6f91eb3bee0aca704895-original.png",
+            "slug": "spasem-ekologiyu-nachnem-utilizirovat-batareyki-pravilno"
+        },
+        {
+            "title": "При покупке товара Philips - подарок!",
+            "shortText": "С 01 по 30 апреля 2019 года сделайте себе подарок! При покупке товаров Philips в сети магазинов «Домотехника», Вы получите ценные подарки! \r\nКоличество подарков ограничено!\r\n",
+            "datePublish": "2019-04-02",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/560\/ae1ab4e6ed2d9dd38edd233879930f08d4b20e4b-original.png",
+            "slug": "pri-pokupke-tovara-philips-podarok"
+        },
+        {
+            "title": "Дарим нешуточный кэшбек или рассрочку",
+            "shortText": "Шутки в сторону: объявляем щедрый кэшбек на тысячи товаров «Домотехники»!\r\n\r\n",
+            "datePublish": "2019-04-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/559\/03789f281e10491b198a931fd89576eb75f1f199-original.png",
+            "slug": "darim-neshutochnyy-keshbek-ili-rassrochku"
+        },
+        {
+            "title": "Подарки от Bork!",
+            "shortText": "Купи технику Bork – получи комплект фирменных ножей в подарок!",
+            "datePublish": "2019-03-28",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/558\/73199b1c76421213441c970fbcf0b0e0cdc832c1-original.png",
+            "slug": "podarki-ot-bork-2"
+        },
+        {
+            "title": "Подарки от Delonghi!",
+            "shortText": "Купи кофе машину – получи гриль DeLonghi в подарок!",
+            "datePublish": "2019-03-22",
+            "image": "",
+            "slug": "podarki-ot-delonghi"
+        },
+        {
+            "title": "Дарим рассрочку на смартфон Samsung Galaxy S10!",
+            "shortText": "Уже хочешь Samsung galaxy s10? Тогда забирай в рассрочку от «Домотехники»! Никакого первого взноса и переплат! ",
+            "datePublish": "2019-03-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/556\/71792b34241d1098373ac59dfd458db05636bde2-original.png",
+            "slug": "darim-rassrochku-na-smartfon-samsung-galaxy-s10-2"
+        },
+        {
+            "title": "«Домотехника» и Polaris проводят «Дни красоты»!",
+            "shortText": "В рамках акции «Дни красоты» каждому желающему будет сделана укладка с помощью техники бренда Polaris. ",
+            "datePublish": "2019-02-26",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/554\/c43cf9c4eeea94cf0c513c10bbb6e1e005c1c160-original.png",
+            "slug": "domotekhnika-i-polaris-provodyat-dni-krasoty"
+        },
+        {
+            "title": "«Домотехника» и BaByliss проводят «Весенние дни красоты»!",
+            "shortText": "В рамках акции «Весенние дни красоты» каждому желающему будет сделана укладка с помощью техники бренда BaByliss.",
+            "datePublish": "2019-02-25",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/553\/39d3ce7972f80d09ab3c91e17761b09fa471369c-original.png",
+            "slug": "domotekhnika-i-babyliss-provodyat-vesennie-dni-krasoty"
+        },
+        {
+            "title": "Подарки от Samsung!",
+            "shortText": "Купи смартфон Samsung – получи второй смартфон в подарок!",
+            "datePublish": "2019-02-22",
+            "image": "",
+            "slug": "podarki-ot-samsung"
+        },
+        {
+            "title": "Cashback для двоих от «Домотехники»!",
+            "shortText": "Готовясь ко дню всех влюблённых, 23 февраля и 8 марта, хочется выбрать для своей второй половинки самый лучший подарок.",
+            "datePublish": "2019-02-13",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/551\/5e73b82d884f360ea95ee6f74e62d2bffb545ffd-original.png",
+            "slug": "cashback-dlya-dvoikh-ot-domotekhniki"
+        },
+        {
+            "title": "Открытие нового магазина в Магадане",
+            "shortText": "Мы открываем магазин «Домотехника» в Магадане на Пролетарской 19!",
+            "datePublish": "2019-02-08",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/550\/9e0be42f2fa8e71b92904e91db2aac2c6930824e-original.png",
+            "slug": "otkrytie-novogo-magazina-v-magadane-4"
+        },
+        {
+            "title": "Техника сегодня - без первого взноса и переплат«Начни с 0» на всю технику в «Домотехнике»",
+            "shortText": "Техника сегодня - без первого взноса и переплат",
+            "datePublish": "2019-01-09",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/546\/19cb14faa41bbdc314e9c23aedfdba6523726446-original.png",
+            "slug": "tekhnika-segodnya-bez-pervogo-vznosa-i-pereplatnachni-s-0-na-vsyu-tekhniku-v-domotekhnike"
+        },
+        {
+            "title": "Подарки от Bork",
+            "shortText": "Купи гриль или мясорубку Bork – получи комплект фирменных ножей в подарок!",
+            "datePublish": "2018-12-21",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/545\/22bf16471718f53eab5dae384bea1dff8a966423-original.png",
+            "slug": "podarki-ot-bork"
+        },
+        {
+            "title": "«Вот это cashback! Вернем до 50%!» с Electrolux",
+            "shortText": "Верните до 50 % от покупки одного из трех комплектов кухонной техники",
+            "datePublish": "2018-12-18",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/543\/5c9198f47ea3768c4240f51a5fbf6fcee9d6fb7d-original.png",
+            "slug": "vot-eto-cashback-vernem-do-50-s-electrolux"
+        },
+        {
+            "title": "Купи устройство samsung – получи Cash Back в 15 000 руб",
+            "shortText": "Купи устройство Samsung – получи Cash Back в 15 000 руб.",
+            "datePublish": "2018-12-17",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/542\/a0f20df638cd65ec69cd8e4f59538a56b8e773de-original.png",
+            "slug": "kupi-ustroystvo-samsung-poluchi-cash-back-v-15-000-rub"
+        },
+        {
+            "title": "«Домотехника» и BaByliss проводят «Новогодние дни красоты»!",
+            "shortText": "В рамках акции «Новогодние дни красоты» каждому желающему будет сделана укладка с помощью техники бренда BaByliss.",
+            "datePublish": "2018-12-10",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/541\/e6b684da212d5b2e8fd6e875b6b680dce817ef1b-original.png",
+            "slug": "domotekhnika-i-babyliss-provodyat-novogodnie-dni-krasoty"
+        },
+        {
+            "title": "Оранжевое ВСЁ – весь декабрь!",
+            "shortText": "Выбирай выгодный Cash Back или Рассрочку 0-0-24!",
+            "datePublish": "2018-12-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/540\/0cd84369da8183933f3587bacfe44dd333aaa03e-original.png",
+            "slug": "oranzhevoe-vse-ves-dekabr-3"
+        },
+        {
+            "title": "Увлажнитель воздуха - залог здоровья! ",
+            "shortText": "Узнай как правильно выбрать увлажнитель!",
+            "datePublish": "2018-11-27",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/537\/0ba6bf03bb5ab60e6c1951e69cac68c33f59bd21-original.png",
+            "slug": "uvlazhnitel-vozdukha-zalog-zdorovya"
+        },
+        {
+            "title": "Мечтал о смартфоне? Купи планшет! ",
+            "shortText": "При покупке планшета Huawei получите смартфон Huawei в подарок",
+            "datePublish": "2018-11-23",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/536\/270668fa0a895705357a590b6afa9fdc20f7597b-original.png",
+            "slug": "mechtal-o-smartfone-kupi-planshet"
+        },
+        {
+            "title": "За топовый смартфон – топовая колонка в подарок! ",
+            "shortText": "При покупке смартфона Huawei получите портативную колонку JBL в подарок",
+            "datePublish": "2018-11-23",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/535\/8590ced429194c002c24b5b59bda9d498fd65481-original.png",
+            "slug": "za-topovyy-smartfon-topovaya-kolonka-v-podarok"
+        },
+        {
+            "title": "Отличное решение для стирки в вашем доме!",
+            "shortText": "При покупке комплекта состоящего из стиральной машины, сушильной машины и перегородки торговой марки Electrolux, вы получаете возможность приобрести эти товары со скидкой!",
+            "datePublish": "2018-11-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/533\/eb0c1b06221d4e02ee75aa3c5d450715cfc82dde-original.png",
+            "slug": "otlichnoe-reshenie-dlya-stirki-v-vashem-dome"
+        },
+        {
+            "title": "Черная пятница",
+            "shortText": "Тысячи товаров с сумасшедшими скидками до 50 % уже ждут тебя. Акция продлится с 19 ноября по 2 декабря. ",
+            "datePublish": "2018-11-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/532\/99b198cc37f4e6dcebe1888a3a2e6d955e1a99c5-original.png",
+            "slug": "httpsdomotekhnikarulandingschernaya-pyatnicahtml"
+        },
+        {
+            "title": "Лучшая акустика по выгодной цене!",
+            "shortText": "При покупке телевизора LG - саундбар LG со скидкой 50%.",
+            "datePublish": "2018-11-06",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/528\/aa722a2d13f03dfe9a84cd2e5367e035a9e8adca-original.png",
+            "slug": "luchshaya-akustika-po-vygodnoy-tsene-3"
+        },
+        {
+            "title": "Запусти свой бумеранг!",
+            "shortText": "Выбирай выгодный Cash Back на всё ИЛИ Рассрочку 0-0-24!",
+            "datePublish": "2018-11-05",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/529\/b0af82b815bd95053be8782ada900bd895406c33-original.png",
+            "slug": "landingsapphtml"
+        },
+        {
+            "title": "Оранжевые выходные в октябре!",
+            "shortText": "Распродажа актуальной техники 13-14 октября",
+            "datePublish": "2018-10-12",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/525\/16442bf88734ba4bb415dffd07c555684f5a1a23-original.png",
+            "slug": "oranzhevye-vykhodnye-v-oktyabre"
+        },
+        {
+            "title": "Термосы Zojirushi",
+            "shortText": "Насладитесь любимым напитком при любых обстоятельствах",
+            "datePublish": "2018-10-05",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/518\/6939005e7e956bada55efb5edcf399919675a0c4-original.png",
+            "slug": "termosa-zojirushi"
+        },
+        {
+            "title": "Рассрочка по кусочку",
+            "shortText": "«Рассрочка по кусочку» на всю технику в «Домотехнике»!",
+            "datePublish": "2018-10-01",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/507\/d9cbb0737ec9aafba470e110d2404b739c071fc8-original.png",
+            "slug": "rassrochka-po-kusochku-5"
+        },
+        {
+            "title": "Домотехника объявляет СТОК-РАСПРОДАЖУ",
+            "shortText": "Скидки до 50% на самые ходовые товары!",
+            "datePublish": "2018-09-17",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/501\/c7d441b72acae3a8324c6477a6756f8f5caf946f-original.png",
+            "slug": "domotekhnika-obyavlyaet-stok-rasprodazhu"
+        },
+        {
+            "title": "Скидки до 50% на цифробытовую технику",
+            "shortText": "Не пропустите самые выгодные выходные осени!",
+            "datePublish": "2018-09-14",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/497\/e4d370673b8bbd6d282834626da7d880cae2655a-original.png",
+            "slug": "skidki-do-50-na-tekhniku"
+        },
+        {
+            "title": "«Оранжевые выходные» по лучшим ценам!",
+            "shortText": "Дополнительная выгода только по 19 августа!",
+            "datePublish": "2018-08-18",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/469\/7a5770d6a683e3e01f99b04290b8cf2ae16c3020-original.png",
+            "slug": "oranzhevye-vykhodnye-po-luchshim-tsenam"
+        },
+        {
+            "title": "Снова в школу!",
+            "shortText": "В преддверии нового учебного года выгодные предложения в сети «Домотехника»: рассрочки 0-0-24, скидки и Cash Back!",
+            "datePublish": "2018-08-13",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/466\/e0d3981b3e0f1e2916b97f33ce24abf6f2d7f0bd-original.png",
+            "slug": "snova-v-shkolu"
+        },
+        {
+            "title": "Как оформить онлайн-кредит",
+            "shortText": "Делать покупки через интернет-магазин «Домотехника» легко и просто!",
+            "datePublish": "2018-08-09",
+            "image": "",
+            "slug": "kak-oformit-onlayn-kredit"
+        },
+        {
+            "title": "Красота не требует жертв, красота требует скидок!",
+            "shortText": "Этим летом будь во всеоружии с «Домотехникой»",
+            "datePublish": "2018-07-02",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/452\/c5da58d85eb4c06e70a7a05a9957a3caff0d82f1-original.png",
+            "slug": "krasota-ne-trebuet-zhertv-krasota-trebuet-skidok"
+        },
+        {
+            "title": "Сделайте свой выбор: Cash Back или Рассрочка!",
+            "shortText": "Летняя выгода в сети «Домотехника»",
+            "datePublish": "2018-07-02",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/449\/929fbc28a373c6333f2f7bc90dd2db23e9496802-original.png",
+            "slug": "sdelayte-svoy-vybor-cash-back-ili-rassrochka"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты» Valera!",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники бренда Valera. ",
+            "datePublish": "2018-06-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/441\/8c20ce153359a9ae497e52fa2460ab4226bc9775-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-valera-2"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты» Valera!",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники бренда Valera. ",
+            "datePublish": "2018-06-15",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/440\/ef819a312ab7ade1e913c0985a993c4c3b478fe7-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-valera"
+        },
+        {
+            "title": "Лучше цены на «оранжевых» выходных",
+            "shortText": "Самые выгодные покупки только до 17 июня",
+            "datePublish": "2018-06-15",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/439\/559d3aee9018a5bde970f03de673a33ba48d8df5-original.png",
+            "slug": "luchshe-tseny-na-oranzhevykh-vykhodnykh"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты!» Remington",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники Remington.",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/434\/27c175bf0321746b9a0393214b3e125542cce6c0-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-remington"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты» Braun!",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники Braun. ",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/431\/d0cf83a0b0906ee40e0627e8258a1e37da7ac38b-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-braun"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты» BaByliss!",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники BaByliss. ",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/432\/24a67146eeda35e2d59857dcee84a6da63d78a8f-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-babyliss"
+        },
+        {
+            "title": "«Домотехника» проводит «Бьюти тесты» BaByliss!",
+            "shortText": "В рамках акции «Бьюти тест» каждому желающему будет сделана укладка с помощью техники BaByliss. ",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/433\/3aa2c1790c29c7a3441c2009fbbebf6e0811bafd-original.png",
+            "slug": "domotekhnika-provodit-byuti-testy-babyliss-2"
+        },
+        {
+            "title": "Первая летняя ТОТАЛЬНАЯ распродажа!",
+            "shortText": "В «Домотехнике» объявляется начало ТОТАЛЬНОЙ цифровой распродажи! Больше тысячи товаров со скидками до 60 % ждут вас только в течение июня. Поторопитесь сделать выгодную покупку!",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/435\/e7099fc2107092ce12d57e53e7f7164e9aaf1827-original.png",
+            "slug": "pervaya-letnyaya-totalnaya-rasprodazha"
+        },
+        {
+            "title": "МЕГА скидки в МЕГА распродаже!",
+            "shortText": "Ищите бытовую технику на дачу? Хотите обновить оснащение своей кухни? Сейчас самое время, ведь в «Домотехнике» МЕГА распродажа мелкой бытовой техники! ",
+            "datePublish": "2018-06-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/436\/a2aabf214e2d39f5c28af2b0e46acadd3931adf1-original.png",
+            "slug": "mega-skidki-v-mega-rasprodazhe"
+        },
+        {
+            "title": "Поймай скидку и рассрочку!",
+            "shortText": "В «Домотехнике» выгодная акция на тысячи цифробытовых товаров. Покупайте сейчас без первого взноса и переплат, на удобный период и с оглушительной скидкой до 50%. ",
+            "datePublish": "2018-05-28",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/428\/4f378dbc08b40c49f91dbf2eccac31fe7a20c6c4-original.png",
+            "slug": "poymay-skidku-i-rassrochku"
+        },
+        {
+            "title": "Лучшие цены в «Оранжевые выходные»",
+            "shortText": "Проведите последний уик-энд весны с пользой!",
+            "datePublish": "2018-05-24",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/427\/5e3fa3832bd0191bd1c6fb38b6bebf5f6986b498-original.png",
+            "slug": "luchshe-tseny-v-oranzhevye-vykhodnye"
+        },
+        {
+            "title": " Розыгрыш эпилятора Braun",
+            "shortText": "С 24 мая по 28 мая, и у вас есть возможность выиграть Эпилятор Braun 9-549 WD!",
+            "datePublish": "2018-05-23",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/425\/0a969381c4861d27bbe0533853ae6d46b9082385-original.png",
+            "slug": "rozygrysh-epilyatora-braun-2"
+        },
+        {
+            "title": " Розыгрыш эпилятора Braun",
+            "shortText": "С 24 мая по 28 мая, и у вас есть возможность выиграть Эпилятор Braun 9-549 WD!",
+            "datePublish": "2018-05-23",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/424\/0418942af6994190c9fd60c8a14bdf90e2991158-original.png",
+            "slug": "rozygrysh-epilyatora-braun"
+        },
+        {
+            "title": "Теперь всё по-взрослому!",
+            "shortText": "Лучшие товары для выпускника в «Домотехнике»",
+            "datePublish": "2018-05-21",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/423\/055ac87b69310443f215b85ecd283d6e91a9eb91-original.png",
+            "slug": "teper-vse-po-vzroslomu-3"
+        },
+        {
+            "title": "Теперь всё по-взрослому!",
+            "shortText": "Лучшие товары для очаровательной выпускницы в «Домотехнике»",
+            "datePublish": "2018-05-21",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/422\/034b56a9f2354c0efe7588303c85f6b052f0a7aa-original.png",
+            "slug": "teper-vse-po-vzroslomu-2"
+        },
+        {
+            "title": "Теперь всё по-взрослому!",
+            "shortText": "Лучшие товары для очаровательной выпускницы в «Домотехнике»",
+            "datePublish": "2018-05-21",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/421\/eb47a6e452ba8ac841e21904b5aafc33f8c18fae-original.png",
+            "slug": "teper-vse-po-vzroslomu"
+        },
+        {
+            "title": "«Домотехника» объявляет дни Лучших скидок!",
+            "shortText": "Не упустите возможность приобрести цифробытовую технику по лучшим ценам! ",
+            "datePublish": "2018-05-15",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/418\/00da045af4e979433a3f55d76fe58b4c042e8a92-original.png",
+            "slug": "domotekhnika-obyavlyaet-dni-luchshikh-skidok"
+        },
+        {
+            "title": " «Рассрочка или Cash Back»",
+            "shortText": "Не откладывайте на завтра то, что можете приобрести уже сегодня. Покупай современную технику известных брендов в рассрочку прямо сейчас или верни часть денег!",
+            "datePublish": "2018-05-12",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/417\/6b7174f29fa34d748370035c583f738d66c5d55f-original.png",
+            "slug": "rassrochka-ili-cash-back"
+        },
+        {
+            "title": " «Домотехника» объявляет дни Лучших цен!",
+            "shortText": "Не упусти шанс приобрести цифробытовую технику по привлекательной цене! ",
+            "datePublish": "2018-04-06",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/409\/100d23671cac4c2cf4fdd750d7c4b3f283db1c1c-original.png",
+            "slug": "domotekhnika-obyavlyaet-dni-luchshikh-tsen"
+        },
+        {
+            "title": "Супер выбор в «Домотехнике»!",
+            "shortText": "Выбери Cash Back и верни часть стоимости покупки техники или покупай в рассрочку без первого взноса и переплат!",
+            "datePublish": "2018-04-05",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/408\/3177556a26e5ecb2f80845674afdb82a9ffb6b88-original.png",
+            "slug": "super-vybor-v-domotekhnike"
+        },
+        {
+            "title": "Катастрофическое снижение цен на игровые приставки Sony!",
+            "shortText": "В рамках «Сток-распродажи» мы снижаем цены на игровые консоли Sony PlayStation 4",
+            "datePublish": "2018-03-21",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/393\/674165a8a510aeb760a606fbe9ce08a71bfcd6d4-original.png",
+            "slug": "katastroficheskoe-snizhenie-tsen-na-igrovye-pristavki-sony"
+        },
+        {
+            "title": "Рассрочка по кусочку",
+            "shortText": "Приобретайте товар сейчас - оплачивайте стоимость по кусочку!",
+            "datePublish": "2018-03-20",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/392\/b40bd5f2516617e4dbc4b0b283e084dddfc5e292-original.png",
+            "slug": "rassrochka-po-kusochku-3"
+        },
+        {
+            "title": "Домотехника начинает сток-распродажу!",
+            "shortText": "Успейте купить то, о чем давно мечтали.",
+            "datePublish": "2018-03-19",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/391\/31770d6aab409c2b019ea07cc1416a8bca072e1e-original.png",
+            "slug": "domotekhnika-nachinaet-stok-rasprodazhu-2"
+        },
+        {
+            "title": "Дарите с Epson, а мы вернем вам деньги!",
+            "shortText": "Вернем до 1000 рублей от стоимости покупки Epson на бонусную карту!",
+            "datePublish": "2018-03-13",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/390\/06f0bdb848e9345c16b49ef57534cfd057dea4b1-original.png",
+            "slug": "darite-s-epson-a-my-vernem-vam-dengi-2"
+        },
+        {
+            "title": "Начинаем красивую распродажу!",
+            "shortText": "Еще более выгодные покупки только до 11 марта!",
+            "datePublish": "2018-03-07",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/389\/8cafd1d31c15bd6dd09e7af751f89e84689c0311-original.png",
+            "slug": "nachinaem-krasivuyu-rasprodazhu"
+        },
+        {
+            "title": "Встречай праздники со скидками!",
+            "shortText": "Теперь покупки в любимом цифробытовом стали еще выгоднее",
+            "datePublish": "2018-02-22",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/380\/7b567078aba1c3f387eb30762b3cb252c551d7bc-original.png",
+            "slug": "vstrechay-prazdniki-so-skidkami"
+        },
+        {
+            "title": "Дарите с любовью, а мы вернем вам деньги!",
+            "shortText": "Вернем до 30% от стоимости покупки на бонусную карту",
+            "datePublish": "2018-02-12",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/369\/fffba926fec9af34b2ceadd54ded3972cc2dfea3-original.png",
+            "slug": "darite-s-lyubovyu-a-my-vernem-vam-dengi"
+        },
+        {
+            "title": "Рассрочка по кусочку",
+            "shortText": "Приобретай товар сейчас-оплачивай стоимость по кусочку!",
+            "datePublish": "2018-02-12",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/359\/4aeb5c5394ce50105b049dffa721b55e5a6100de-original.png",
+            "slug": "rassrochka-po-kusochku"
+        },
+        {
+            "title": "«Домотехника» объявляет месяц щедрых подарков",
+            "shortText": "Дарите своим родным и близким только самое лучшее",
+            "datePublish": "2018-02-12",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/370\/9b08e7a3b6b295bf37d900d8911cbbcb72f2b9c6-original.png",
+            "slug": "darite-s-lubovyu"
+        },
+        {
+            "title": "Создадим безупречную кухню",
+            "shortText": "Встраиваемые новинки Galatec в «Домотехнике»!",
+            "datePublish": "2018-02-09",
+            "image": "",
+            "slug": "sozdadim-bezuprechnuyu-kukhnyu"
+        },
+        {
+            "title": "Встречайте Масленицу правильно!",
+            "shortText": "Полезные товары для самых вкусных блинов в «Домотехнике»",
+            "datePublish": "2018-02-08",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/365\/b72b4336f179855fb97bcb8ab92c8bcb49e9851f-original.png",
+            "slug": "vstrechayte-maslenitsu-pravilno"
+        },
+        {
+            "title": "Встречайте Масленицу правильно!",
+            "shortText": "Полезные товары для самых вкусных блинов в «Домотехнике»",
+            "datePublish": "2018-02-08",
+            "image": "",
+            "slug": "vstrechayte-maslenitsu-pravilno-2"
+        },
+        {
+            "title": "КИБЕРвыходные в «Домотехнике»",
+            "shortText": "В цифробытовом стартует первая грандиозная распродажа года!",
+            "datePublish": "2018-01-26",
+            "image": "https:\/\/cdn2.domotekhnika.ru\/images\/news\/000\/000\/360\/7a8e8af0b56d5c64a15e9ace0b8c039ebd646683-original.png",
+            "slug": "kibervykhodnye-v-domotekhnike-2"
+        }
+    ]
+}
