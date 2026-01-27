@@ -6,3 +6,13 @@ body {
   max-width: 1139px;
   margin: 0 auto;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: blueviolet;
+  transition: color 200ms ease-in-out;
+}
